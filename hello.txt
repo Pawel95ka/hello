@@ -1,4 +1,4 @@
  Hello, this is my file
 
 2.Changing on github.
-
+3. Zmiana na kompurze.
